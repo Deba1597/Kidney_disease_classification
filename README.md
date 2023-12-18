@@ -68,3 +68,12 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/Deba1597/Kidney_disease_classific
 export MLFLOW_TRACKING_USERNAME=Deba1597 \
 export MLFLOW_TRACKING_PASSWORD=98df3678b523b2747c0a2e7aae9d66aaf0dcd9d7 \
 ```
+
+
+
+### DVC cmd
+
+1. dvc init
+2. dvc repro
+3. dvc dag
+
