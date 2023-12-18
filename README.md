@@ -48,6 +48,22 @@ Now,
 open up you local host and port
 ```
 
+## MLflow
+
+- [Documentation](https://mlflow.org/docs/latest/index.html)
+
+- [MLflow tutorial](https://youtu.be/qdcHHrsXA48?si=bD5vDS60akNphkem)
+
+##### cmd
+- mlflow ui
+
+### dagshub
+[dagshub](https://dagshub.com/)
+
+MLFLOW_TRACKING_URI=https://dagshub.com/Deba1597/Kidney_disease_classification.mlflow \
+MLFLOW_TRACKING_USERNAME=Deba1597 \
+MLFLOW_TRACKING_PASSWORD=98df3678b523b2747c0a2e7aae9d66aaf0dcd9d7
+
 ```bash
 export MLFLOW_TRACKING_URI=https://dagshub.com/Deba1597/Kidney_disease_classification.mlflow \
 export MLFLOW_TRACKING_USERNAME=Deba1597 \
